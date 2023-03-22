@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nota Final</string>
+    <string name="calculadora_nota_final">Calculadora Nota Final</string>
+    <string name="nota1">Práctica del Laboratoio 60%</string>
+    <string name="nota_60_texto">Nota del 60%</string>
+    <string name="nota2">Primer avance del proyecto final 7%</string>
+    <string name="nota_7_texto">Nota del 7%</string>
+    <string name="nota3">Segundo avance del proyecto final 8%</string>
+    <string name="nota_8_texto">Nota del  8%</string>
+    <string name="nota4">Entrega del proyecto final 25%</string>
+    <string name="nota_25_texto">Nota del  25%</string>
+    <string name="text_calcular">Calcular la nota final</string>
+    <string name="title_activity_splashn">SplashnActivity</string>
+</resources>
